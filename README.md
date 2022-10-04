@@ -20,6 +20,7 @@ Add image / art here by changing the link
 
 <h1 align="center">Hi 👋, I'm ShammasKavi</h1>
 <h3 align="center">A self-thought web & android developer, currently pursuing my bachelors in AI & ML, looking to add value to the company with my keen understanding of technologies.</h3>
+<br/>
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
