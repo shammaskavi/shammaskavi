@@ -18,8 +18,8 @@ Add image / art here by changing the link
 <!--  ------------------------------------------------------------------------------------- -->
 
 
-<h1 align="center">Hi 👋, I'm ShammasKavi</h1>
-<h3 align="center">I'm and indie full-stack developer and content creator building my version of digital world one step at a time.I like to solve real world problems with my understanding of technology.</h3>
+<h1 align="center">Hi 👋 I'm ShammasKavi</h1>
+<h3 align="center">I'm and indie full-stack developer and content creator building my version of digital world one step at a time. I like to solve real world problems with my understanding of technology.</h3>
 <br/>
 
 <h3 align="left">Connect with me:</h3>
